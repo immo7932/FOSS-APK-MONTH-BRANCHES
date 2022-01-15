@@ -14,12 +14,13 @@ Add your details after the details of the previous student. Visit the deployed w
 ### For Example:
 ```Java
     <div class="data">
-        <img class="pimg" src="https://avatars.githubusercontent.com/shashwat-mittal" >
+        <img class="pimg" src="https://avatars.githubusercontent.com/<github username>" >
         <h2>Shashwat Mittal</h2>
         <h2>IIT2020157</h2>
         <h2>Shashwat#9311</h2>
     </div>
-```    
+```
+         
     
 Now while doing this subtask, you will be facing Merge Conflicts, and hence will be asked again & again, to solve merge conflicts, until your PR is merged.
 Also, you can find some sample entries in the text file for your Reference.
