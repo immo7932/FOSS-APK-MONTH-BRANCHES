@@ -13,7 +13,7 @@ Add your details after the details of the previous student. Visit the deployed w
 ```
 ### For Example:
 ```Java
-   <div class="data">
+    <div class="data">
         <img class="pimg" src="https://avatars.githubusercontent.com/shashwat-mittal" >
         <h2>Shashwat Mittal</h2>
         <h2>IIT2020157</h2>
